@@ -14,7 +14,7 @@
   <img align="center" alt="Ramom-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ramom-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ramom-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/945794069198688269/945794337445392414/download20220202181711.png?width=497&height=497">
+  <img align="right" alt="RamomAvatar" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/945794069198688269/945803647890116668/ReadyPlayerMe-Avatar.png?width=360&height=360">
 </div>
   ##
   
